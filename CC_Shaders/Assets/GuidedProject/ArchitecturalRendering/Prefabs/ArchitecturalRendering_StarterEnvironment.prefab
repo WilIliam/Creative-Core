@@ -2540,7 +2540,7 @@ PrefabInstance:
     - target: {fileID: 1042471916589787185, guid: a1af34ba5fd775a4986fd56f164af97f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: a661474660e0a0c48ba91fa85282c619, type: 2}
     - target: {fileID: 1546818106633488868, guid: a1af34ba5fd775a4986fd56f164af97f, type: 3}
       propertyPath: m_Name
       value: Block_Flat_Large_600x300x20 (1)
@@ -4240,7 +4240,7 @@ PrefabInstance:
     - target: {fileID: 1042471916589787185, guid: a1af34ba5fd775a4986fd56f164af97f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: bc37a7f90411880458ec3a075c740618, type: 2}
     - target: {fileID: 1546818106633488868, guid: a1af34ba5fd775a4986fd56f164af97f, type: 3}
       propertyPath: m_Name
       value: Block_Flat_Large_600x300x20 (2)
@@ -4315,6 +4315,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4385619753079804825}
     m_Modifications:
+    - target: {fileID: 5603674285466134541, guid: 8f6ab829d73c5164ca563d59545c7075, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: db754f6e3c4e7174291147b7f99a579f, type: 2}
     - target: {fileID: 6252329313947650520, guid: 8f6ab829d73c5164ca563d59545c7075, type: 3}
       propertyPath: m_Name
       value: Chair2
@@ -5933,7 +5937,7 @@ PrefabInstance:
     - target: {fileID: 3516381115159866930, guid: 44b53f71ea083db4c821de109f1448e0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: bc37a7f90411880458ec3a075c740618, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44b53f71ea083db4c821de109f1448e0, type: 3}
 --- !u!4 &2043302512510458818 stripped
@@ -6025,7 +6029,7 @@ PrefabInstance:
     - target: {fileID: 5603674285466134541, guid: 8f6ab829d73c5164ca563d59545c7075, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: db754f6e3c4e7174291147b7f99a579f, type: 2}
     - target: {fileID: 6252329313947650520, guid: 8f6ab829d73c5164ca563d59545c7075, type: 3}
       propertyPath: m_Name
       value: Chair1
