@@ -1397,7 +1397,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 813c6375c5ad1f540b9b1eed2013893d, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: b7d285a48ca3dbc4db06b8931b05c8f1, type: 2}
     - target: {fileID: 919132149155446097, guid: 813c6375c5ad1f540b9b1eed2013893d, type: 3}
       propertyPath: m_Name
       value: BeachBall
@@ -4374,6 +4374,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 7112491482440502807, guid: 851be73f04cbc0346959b8445aedf5b4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c69decf714398914fa7ee0e3bee91de5, type: 2}
     - target: {fileID: 7747328175805218269, guid: 851be73f04cbc0346959b8445aedf5b4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -4654,6 +4658,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 4094080893206870321, guid: a901cbd1539f3c14eb150e0e9c67e5fc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c69decf714398914fa7ee0e3bee91de5, type: 2}
     - target: {fileID: 4217072563480665252, guid: a901cbd1539f3c14eb150e0e9c67e5fc, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
