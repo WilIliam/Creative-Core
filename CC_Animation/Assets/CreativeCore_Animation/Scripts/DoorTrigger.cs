@@ -13,6 +13,6 @@ public class DoorTrigger : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        anim.SetTrigger("PlayerOut");
+        anim.SetTrigger("PlayerProximity");
     }
 }
