@@ -8,6 +8,7 @@ TagManager:
   - Cave
   - Water
   - Grass
+  - Culled
   layers:
   - Default
   - TransparentFX
